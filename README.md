@@ -36,8 +36,7 @@ Welcome to my GitHub profile!
 ## 📊 Featured Interests
 - 📈 Data Analytics  
 - 🤖 Machine Learning  
-- 📊 Data Visualization  
-- 🌏 Policy & Economic Analysis  
+- 📊 Data Visualization 
 
 ---
 
